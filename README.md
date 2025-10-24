@@ -29,7 +29,7 @@ Este repositorio acompaña el contenido del canal **HolaWindev** y documenta un 
 
 ## ⚙️ Requisitos
 
-- **WinDev Mobile 2024 o superior** (probado con versiones recientes).
+- **WinDev Mobile 2025 o superior** (probado con versiones recientes).
 - **Android 8+** con Bluetooth habilitado.
 - Impresora térmica **compatible ESC/POS** (cualquier marca común suele funcionar).
 - Permisos Android declarados según tu versión (ej.: `BLUETOOTH_CONNECT`, `BLUETOOTH_SCAN`).
