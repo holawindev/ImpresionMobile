@@ -83,12 +83,9 @@ project :
      type : 2
   other_elements :
    -
-     physical_name : .\core-3.5.3.jar
-     configurations :
-      -
-        internal_properties : HwAAAB4AAACjU4e13MCoQYSlTG4MQGQai/now2EdhE6g86LXheFcEtWAdQjcxw==
-        configuration_id : 11397044502723206277
-        excluded : true
+     physical_name : .\LICENSE.md
+   -
+     physical_name : .\README.md
   array_of_analysis : []
   net_assemblies : []
   uwp_api : []
